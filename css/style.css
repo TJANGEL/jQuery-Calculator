@@ -1,0 +1,39 @@
+.jumbotron {
+    background: darkcyan;
+    color: darkslategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 8px solid darkgrey;
+    padding-bottom: 5px;
+}
+
+.text-center {
+    font-size: 60px;
+}
+
+#button-1,
+#button-2,
+#button-3,
+#button-plus,
+#button-7,
+#button-8,
+#button-9,
+#button-multiply,
+#button-0,
+#button-divide,
+#button-power,
+#button-equal
+ {
+    padding: 40px;
+}
+
+#button-4,
+#button-5,
+#button-6,
+#button-minus {
+    padding: 40px;
+}
+
+#button-clear {
+    padding-left: 200px;
+    padding-right: 200px;
+}
